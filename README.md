@@ -132,11 +132,4 @@ Model formula: `~ Sequencing + Treatment`
 - **Negative log2FoldChange**: Higher expression in untreated samples
 - **padj**: Benjamini-Hochberg adjusted p-values for multiple testing
 
-## Citation
 
-If you use this analysis pipeline, please cite:
-- Love, M.I., Huber, W., Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology 15, 550 (2014).
-
-## Contact
-
-For questions about this analysis, please open an issue or contact [your-email@domain.com].
