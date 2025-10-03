@@ -97,10 +97,6 @@ colorectal/
 - **Robust GSEA scoring**: Handles infinite p-values and missing gene mappings
 - **Comprehensive QC**: Pre-filtering of low-count genes (>10 reads in ≥2 samples)
 
-## Author
-
-Jesutofunmi
-
 ## References
 
 - Love MI, Huber W, Anders S (2014). "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2." *Genome Biology*
